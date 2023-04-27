@@ -7,7 +7,7 @@ def send_email(cont_dic, mail_receiver):
 
     mail_sender = 'isaacinfrastructure@gmail.com'
     mail_password = 'wakmwxfbaikayjcs'
-
+    
     
     subject = 'Complaint Register'
     body = f"Potholes are identifed at location: {cont_dic['location']}. It's a {cont_dic['highway_type']} that contains {cont_dic['size']}. Take necessary actions"
