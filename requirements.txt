@@ -1,0 +1,6 @@
+pymongo
+dnspython
+streamlit
+opencv-python
+numpy
+#object-detection-api
