@@ -191,7 +191,7 @@ uri-template==1.2.0
 urllib3==1.26.15
 vaderSentiment==3.3.2
 validators==0.20.0
-virtualenv==20.21.0
+virtualenv==20.26.6
 watchdog==3.0.0
 wcwidth==0.2.5
 webcolors==1.13
